@@ -1,3 +1,3 @@
 ## LOOP AND STOP
 
-Repeated loop of numbers that breaks upon entering an alpha character
+Repeated loop of numbers that breaks upon entering an alphabetic character
